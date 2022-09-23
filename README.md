@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **imshubhy@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3QCqJ3D](https://bit.ly/3QCqJ3D)
+- 📄 Know about my experiences [https://bit.ly/3faGMrJ](https://bit.ly/3faGMrJ)
     
 - ⚡ Fun fact **I am Funny**
 
