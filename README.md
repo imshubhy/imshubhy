@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://shubhamkumarportfolio3.netlify.app/](https://shubhamkumarportfolio3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3BGCnUY](https://bit.ly/3BGCnUY)
 
 - 💬 Ask me about **Java , Spring , MySQL**
 
