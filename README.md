@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3BGCnUY](https://bit.ly/3BGCnUY)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3fl3oFX](https://bit.ly/3fl3oFX)
 
 - 💬 Ask me about **Java , Spring , MySQL**
 
