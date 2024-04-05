@@ -19,7 +19,7 @@
     <i>- I’m looking to collaborate on innovative Projects.</i>
 </h3>
 <h3>
-    <i>- Currently Studying at Masai School.</i>
+    <i>- Currently Studying at Sharda University.</i>
 </h3>
 
 <br>
